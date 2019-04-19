@@ -1,5 +1,5 @@
 _repo: The-collected-works-of-William-Hazlitt-Vol-2-of-12_59256
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   other_contributor:
     agent_name: Henley, William Ernest
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '369'
     url: http://www.gutenberg.org/2009/agents/369
     wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+covers:
+- cover_type: archival
+  image_path: 59256-h/images/cover.jpg
 creator:
   author:
     agent_name: Hazlitt, William
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/956
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Rayney_Waller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59256#The-collected-works-of-William-Hazlitt-Vol-2-of-12
 gutenberg_issued: '2019-04-12'
 gutenberg_type: Text
 identifiers:

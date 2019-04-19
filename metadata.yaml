@@ -1,0 +1,45 @@
+_repo: The-collected-works-of-William-Hazlitt-Vol-2-of-12_59256
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Henley, William Ernest
+    alias: Henley, W. E. (William Ernest)
+    birthdate: 1849
+    deathdate: 1903
+    gutenberg_agent_id: '369'
+    url: http://www.gutenberg.org/2009/agents/369
+    wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+creator:
+  author:
+    agent_name: Hazlitt, William
+    birthdate: 1778
+    deathdate: 1830
+    gutenberg_agent_id: '800'
+    url: http://www.gutenberg.org/2009/agents/800
+    wikipedia: http://en.wikipedia.org/wiki/William_Hazlitt
+  editors:
+  - agent_name: Glover, Arnold
+    birthdate: 1865
+    deathdate: 1905
+    gutenberg_agent_id: '39381'
+    url: http://www.gutenberg.org/2009/agents/39381
+  - agent_name: Waller, A. R. (Alfred Rayney)
+    alias: Waller, Alfred Rayney
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '956'
+    url: http://www.gutenberg.org/2009/agents/956
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Rayney_Waller
+description: ''
+gutenberg_issued: '2019-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The collected works of William Hazlitt, Vol. 2 (of 12)
+url: http://www.gutenberg.org/ebooks/59256
